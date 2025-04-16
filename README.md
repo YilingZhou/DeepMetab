@@ -1,9 +1,9 @@
-# MultiCYP
-MultiCYP is an end-to-end, integrated metabolic characterization prediction model based on multi-task strategy and multi-scale features. This model provides comprehensive predictions about metabolic enzymes, metabolic sites, and metabolites for specified molecules. The methodology is described in detail in the paper.
+# DeepMetab
+DeepMetab is an end-to-end, integrated metabolic characterization prediction model based on multi-task strategy and multi-scale features. This model provides comprehensive predictions about metabolic enzymes, metabolic sites, and metabolites for specified molecules. The methodology is described in detail in the paper.
 ## Installation
 ``` python
-conda create -n MultiCYP python=3.8
-conda activate MultiCYP
+conda create -n DeepMetab python=3.8
+conda activate DeepMetab
 conda install rdkit
 pip install chemprop
 ```
