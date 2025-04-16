@@ -10,7 +10,7 @@ pip install chemprop
 If use multi-scale feature, JAVA [![Java](https://img.shields.io/badge/Java-21.0.2%2B-brightgreen.svg)](https://www.oracle.com/java/technologies/downloads/#java21) is needed.
 ## Predicting metabolites
 ### Prepare input files
-MultiCYP supports multiple input formats, including:  
+DeepMetab supports multiple input formats, including:  
 - Single SMILES string  
 - SMI file  
 - CSV file (must contain a column named 'Smiles')  
